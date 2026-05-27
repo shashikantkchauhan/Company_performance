@@ -23,7 +23,8 @@ transactions to uncover the root causes of a significant net loss despite high r
 
 ## 📊 Interactive Excel Dashboard
 
-![Company Dashboard](<img width="877" height="417" alt="Company_dashboard" src="https://github.com/user-attachments/assets/30adc8cb-37c0-4142-82c2-c31922d9cf83" />)
+![Company Dashboard]<img width="877" height="417" alt="Company_dashboard" src="https://github.com/user-attachments/assets/ccad5d72-608c-49a6-9275-887af20216d7" />
+
 
 ---
 
